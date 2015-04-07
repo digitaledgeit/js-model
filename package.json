@@ -1,0 +1,10 @@
+{
+  "name": "digitaledgeit-model",
+  "version": "0.0.0",
+  "description": "A very simple model class.",
+  "main": "index.js",
+  "dependencies": {
+    "extend-class": "^1.0.3"
+  },
+  "license": "MIT"
+}
