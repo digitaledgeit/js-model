@@ -4,6 +4,7 @@
   "description": "A very simple model class.",
   "main": "index.js",
   "dependencies": {
+    "component-emitter": "^1.2.0",
     "extend-class": "^1.0.3"
   },
   "license": "MIT"
