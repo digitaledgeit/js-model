@@ -9,7 +9,7 @@ var Person = factory()
       return this;
     };
   })
-  .class()
+  .create()
 ;
 
 var person = new Person({

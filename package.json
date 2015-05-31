@@ -1,6 +1,6 @@
 {
   "name": "@iso/model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple model for client and server side apps.",
   "main": "index.js",
   "dependencies": {
