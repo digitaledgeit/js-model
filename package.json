@@ -1,10 +1,11 @@
 {
   "name": "@iso/model",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A simple model for client and server side apps.",
   "main": "index.js",
   "dependencies": {
     "component-emitter": "^1.2.0",
+    "extend": "^2.0.1",
     "extend-class": "^1.0.3"
   },
   "license": "MIT"
