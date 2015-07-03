@@ -1,7 +1,7 @@
 {
   "name": "iso-model",
   "version": "0.1.0",
-  "description": "A simple model for client and server side apps.",
+  "description": "A simple model factory for isomorphic apps.",
   "main": "index.js",
   "dependencies": {
     "component-emitter": "^1.2.0",
